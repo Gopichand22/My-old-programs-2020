@@ -1,0 +1,6 @@
+projectKey=com.online.classroom:OnlineClassRoom
+serverUrl=http://localhost:9000
+serverVersion=7.1.0.11001
+dashboardUrl=http://localhost:9000/dashboard/index/com.online.classroom:OnlineClassRoom
+ceTaskId=AXjMAk3f3qRhWJ7f7sNk
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXjMAk3f3qRhWJ7f7sNk
